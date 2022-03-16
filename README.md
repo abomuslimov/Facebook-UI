@@ -1,6 +1,6 @@
 # facebook_ui
 
-A new Flutter application.
+The UI of the main page of Facebook mobile application
 
 ## Getting Started
 
