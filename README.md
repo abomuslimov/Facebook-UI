@@ -1,6 +1,6 @@
-# facebook_ui
+# Facebook UI Mobile and Desktop
 
-The UI of the main page of Facebook mobile application
+Mobile and Desktop UI of the main page of Facebook
 
 ## Getting Started
 
